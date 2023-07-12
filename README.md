@@ -25,7 +25,7 @@ React: A JavaScript library for building user interfaces.
 
 ## Contributing
 
-If you'd like to contribute to Dall-E Clone, please follow these steps:
+If you'd like to contribute to Modern UI/UX GPT-3, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch using `git checkout -b feature/<your-feature-name>`.
