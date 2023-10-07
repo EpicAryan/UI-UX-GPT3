@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
 
       <div className="gpt3__footer-btn">
-        <p>Request Early Access</p>
+        <button type="button">Request Early Access</button>
       </div>
 
       <div className="gpt3__footer-links">
